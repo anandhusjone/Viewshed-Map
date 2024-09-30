@@ -1,1 +1,3 @@
 # Viewshed-Map
+Explore the cutting-edge deployment of LoRaWAN gateways, Automatic Weather Stations (AWS), and Automatic Rain Gauges (ARG) in Kattakada Panchayat, brought to life by ICFOSS! This dynamic map showcases the extensive viewsheds of LoRaWAN gateways, highlighting the wide reach of the wireless sensor networks. These networks seamlessly collect and transmit real-time data from AWS and ARG devices, providing key insights into local weather patterns and rainfall. Dive into the spatial distribution of these smart devices, which are transforming environmental monitoring and helping drive data-driven decisions for sustainable agriculture and climate resilience.
+To view the real-time data: [ICFOSS-IoT-Dashboard](https://visualize.openiot.in/)
